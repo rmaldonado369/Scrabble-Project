@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Ricky/Documents/Scrabble Project/scrabble/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ricky/Documents/Scrabble Project/scrabble/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'scrabble 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'scrabble 1.0-SNAPSHOT API'
+scrabble
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\src\main\java = 1737600896276
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\allclasses-index.html = 1737745079901
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\allpackages-index.html = 1737745079911
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\copy.svg = 1737745080064
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\element-list = 1737745079756
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\help-doc.html = 1737745080048
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\index-all.html = 1737745080025
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\index.html = 1737745080040
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\link.svg = 1737745080073
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\member-search-index.js = 1737745079978
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\module-search-index.js = 1737745079951
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\overview-tree.html = 1737745079853
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\package-search-index.js = 1737745079974
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\script.js = 1737745080062
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\search-page.js = 1737745080083
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\search.html = 1737745080035
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\search.js = 1737745080078
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\stylesheet.css = 1737745080059
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\tag-search-index.js = 1737745079981
+C:\Users\Ricky\Documents\Scrabble Project\scrabble\target\reports\apidocs\type-search-index.js = 1737745079976
